@@ -54,7 +54,13 @@ dkms.conf
 # debug information files
 *.dwo
 
+# Build artifact
+Nes_Cpu6502
+
+# Nix
+result
+result-*
+
 # directories
-Nes_Cpu6502/
 x64/
 .vs/
